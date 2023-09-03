@@ -30,7 +30,7 @@ MD SADMAN
 ## Version History
 
 * 1.0.0
-    * Initial Versions
+    * Initial Version
 
 ## License
 
